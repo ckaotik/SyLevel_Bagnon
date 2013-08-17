@@ -1,0 +1,12 @@
+## Interface: 50300
+## Title: !Sy|cff5CB3FFLevel|r_Bagnon
+## Author: Suicidal Katt
+## Version: 1.1
+## SavedVariablesPerCharacter: SyLevel_BagnonDB
+## Dependancies: SyLevel, Bagnon
+## X-eMail: suicidalkatt@gmail.com
+## Notes: Displays item level information on your item slots!
+
+bags.lua
+bank.lua
+init.lua
