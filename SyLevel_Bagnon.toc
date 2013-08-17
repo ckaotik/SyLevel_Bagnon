@@ -1,6 +1,6 @@
 ## Interface: 50300
 ## Title: !Sy|cff5CB3FFLevel|r_Bagnon
-## Author: Suicidal Katt
+## Author: Suicidal Katt, ckaotik
 ## Version: 1.1
 ## SavedVariablesPerCharacter: SyLevel_BagnonDB
 ## Dependancies: SyLevel, Bagnon
